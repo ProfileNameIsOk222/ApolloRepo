@@ -1,0 +1,24 @@
+{
+	"BUILD_DIR" : "/home/profilenameisok/asteroid-draw/build/src/asteroid-draw_autogen",
+	"CMAKE_BINARY_DIR" : "/home/profilenameisok/asteroid-draw/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/profilenameisok/asteroid-draw/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/profilenameisok/asteroid-draw/src",
+	"CMAKE_SOURCE_DIR" : "/home/profilenameisok/asteroid-draw",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/profilenameisok/asteroid-draw/build/src/asteroid-draw_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/profilenameisok/asteroid-draw/src/second.qml",
+		"/home/profilenameisok/asteroid-draw/src/main.qml"
+	],
+	"LOCK_FILE" : "/home/profilenameisok/asteroid-draw/build/src/CMakeFiles/asteroid-draw_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/profilenameisok/asteroid-draw/build/src/CMakeFiles/asteroid-draw_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/profilenameisok/asteroid-draw/src/resources.qrc",
+	"VERBOSITY" : 0
+}
