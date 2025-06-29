@@ -1,0 +1,5 @@
+asteroid-wristlight_autogen/timestamp: \
+	/home/profilenameisok/asteroid-wristlight/src/CMakeLists.txt \
+	/home/profilenameisok/asteroid-wristlight/src/main.cpp \
+	/home/profilenameisok/asteroid-wristlight/src/resources.qrc \
+	/usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/bin/cmake
