@@ -1,0 +1,3 @@
+/usr/lib/libasteroid-workout.so
+/usr/bin/asteroid-workout
+/usr/share/applications/asteroid-workout.desktop

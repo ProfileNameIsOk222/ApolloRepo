@@ -1,0 +1,89 @@
+{
+	"BUILD_DIR" : "/home/profilenameisok/asteroid-workout/build/src/asteroid-workout_autogen",
+	"CMAKE_BINARY_DIR" : "/home/profilenameisok/asteroid-workout/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/profilenameisok/asteroid-workout/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/profilenameisok/asteroid-workout/src",
+	"CMAKE_EXECUTABLE" : "/usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/profilenameisok/asteroid-workout/src/CMakeLists.txt",
+		"/home/profilenameisok/asteroid-workout/src/resources.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/profilenameisok/asteroid-workout",
+	"DEP_FILE" : "/home/profilenameisok/asteroid-workout/build/src/asteroid-workout_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "asteroid-workout_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/profilenameisok/asteroid-workout/build/src/asteroid-workout_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/profilenameisok/asteroid-workout/build/src/asteroid-workout_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"asteroid_workout_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/profilenameisok/asteroid-workout/build/src",
+		"/home/profilenameisok/asteroid-workout/src",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/include/asteroidapp",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/include/QtQml",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/include/QtNetwork",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/include/QtCore",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/lib/mkspecs/linux-oe-g++",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/include/QtQuick",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/include/QtQmlModels",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/include/QtGui",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/include",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/include/c++/13.3.0",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/include/c++/13.3.0/arm-oe-linux-gnueabi",
+		"/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi/usr/include/c++/13.3.0/backward",
+		"/usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/lib/arm-oe-linux-gnueabi/gcc/arm-oe-linux-gnueabi/13.3.0/include",
+		"/usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/lib/arm-oe-linux-gnueabi/gcc/arm-oe-linux-gnueabi/13.3.0/include-fixed"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/bin/arm-oe-linux-gnueabi/arm-oe-linux-gnueabi-g++",
+		"-march=armv7ve",
+		"-mfpu=neon",
+		"-mfloat-abi=hard",
+		"-D_TIME_BITS=64",
+		"-D_FILE_OFFSET_BITS=64",
+		"--sysroot=/usr/local/oecore-x86_64/sysroots/armv7vehf-neon-oe-linux-gnueabi",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/profilenameisok/asteroid-workout/build/src/asteroid-workout_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/profilenameisok/asteroid-workout/build/src/CMakeFiles/asteroid-workout_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/profilenameisok/asteroid-workout/build/src/CMakeFiles/asteroid-workout_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/profilenameisok/asteroid-workout/src/main.cpp", "Mu", null ]
+	],
+	"VERBOSITY" : 0
+}
