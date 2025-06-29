@@ -1,0 +1,3 @@
+/usr/lib/libasteroid-worldclock.so
+/usr/bin/asteroid-worldclock
+/usr/share/applications/asteroid-worldclock.desktop
