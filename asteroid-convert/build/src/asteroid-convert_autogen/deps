@@ -1,0 +1,5 @@
+asteroid-convert_autogen/timestamp: \
+	/home/profilenameisok/asteroid-convert/src/CMakeLists.txt \
+	/home/profilenameisok/asteroid-convert/src/main.cpp \
+	/home/profilenameisok/asteroid-convert/src/resources.qrc \
+	/usr/local/oecore-x86_64/sysroots/x86_64-oesdk-linux/usr/bin/cmake

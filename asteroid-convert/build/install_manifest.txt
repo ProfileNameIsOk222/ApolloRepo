@@ -1,0 +1,3 @@
+/usr/lib/libasteroid-convert.so
+/usr/bin/asteroid-convert
+/usr/share/applications/asteroid-convert.desktop
