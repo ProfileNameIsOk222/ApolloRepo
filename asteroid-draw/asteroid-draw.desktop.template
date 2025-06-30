@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Categories=Applications;
+Exec=asteroid-draw
+Icon=ios-color-palette-outline
+X-Asteroid-Center-Color=#b3b3b3
+X-Asteroid-Outer-Color=#c9c9c9
