@@ -1,3 +1,0 @@
-/usr/lib/libasteroid-wristlight.so
-/usr/bin/asteroid-wristlight
-/usr/share/applications/asteroid-wristlight.desktop

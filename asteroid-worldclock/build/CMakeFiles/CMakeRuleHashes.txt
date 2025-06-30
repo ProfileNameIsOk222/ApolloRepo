@@ -1,5 +1,0 @@
-# Hashes of file build rules.
-67f3752493bdae0bfb9a32719b0896b4 src/CMakeFiles/asteroid-worldclock_autogen
-67f3752493bdae0bfb9a32719b0896b4 src/CMakeFiles/asteroid-worldclock_autogen_timestamp_deps
-3dc2e6737cdb16ec21feb8b031f885f3 src/asteroid-worldclock_autogen/EWIEGA46WW/qrc_resources.cpp
-73d381fd9ee7092d82b7f1a3eacd7c7d src/asteroid-worldclock_autogen/timestamp

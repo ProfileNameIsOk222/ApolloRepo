@@ -1,9 +1,0 @@
-Architecture: armv7vehf-neon
-Description: Sample application to get started on Asteroid
-Maintainer: bogus@example.org
-Package: asteroid-worldclock
-Priority: optional
-Section: devel
-Version: 0.0.1
-Installed-Size: 30
-

@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Categories=Applications;
-Exec=asteroid-worldclock
-Icon=ios-globe-outline
-X-Asteroid-Center-Color=#ffd208
-X-Asteroid-Outer-Color=#08adff

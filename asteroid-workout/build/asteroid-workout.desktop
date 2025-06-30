@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Categories=Applications;
-Exec=asteroid-workout
-Icon=ios-body-outline
-X-Asteroid-Center-Color=#555555
-X-Asteroid-Outer-Color=##1f1f1f
-Name=Workout

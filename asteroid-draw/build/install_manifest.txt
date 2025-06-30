@@ -1,3 +1,0 @@
-/usr/lib/libasteroid-draw.so
-/usr/bin/asteroid-draw
-/usr/share/applications/asteroid-draw.desktop

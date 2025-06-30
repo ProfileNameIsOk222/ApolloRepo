@@ -1,5 +1,0 @@
-# Hashes of file build rules.
-a038ed64874a3ebca224611486cf15ba src/CMakeFiles/asteroid-wristlight_autogen
-a038ed64874a3ebca224611486cf15ba src/CMakeFiles/asteroid-wristlight_autogen_timestamp_deps
-11df372577fe3fc94c900c4cbea7bedf src/asteroid-wristlight_autogen/EWIEGA46WW/qrc_resources.cpp
-7a0680fc0c7c6e1bb6c30bbbf1fac60c src/asteroid-wristlight_autogen/timestamp
