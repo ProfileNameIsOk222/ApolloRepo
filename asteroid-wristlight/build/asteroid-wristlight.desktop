@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=Applications;
+Exec=asteroid-wristlight
+Icon=ios-sunny-outline
+X-Asteroid-Center-Color=#391557
+X-Asteroid-Outer-Color=#9218f5
+Name=Wristlight
